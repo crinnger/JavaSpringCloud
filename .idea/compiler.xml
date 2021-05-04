@@ -9,19 +9,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="shopping-cart" />
-        <module name="java-codeanywhere-product-catalog" />
+        <module name="product-catalog" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server" target="11" />
-      <module name="java-codeanywhere-product-catalog" target="11" />
+      <module name="product-catalog" target="11" />
       <module name="shopping-cart" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="config-server" options="-parameters" />
-      <module name="java-codeanywhere-product-catalog" options="-parameters" />
+      <module name="product-catalog" options="-parameters" />
       <module name="shopping-cart" options="-parameters" />
     </option>
   </component>

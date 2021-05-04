@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-codeanywhere-product-catalog/java-codeanywhere-product-catalog.iml" filepath="$PROJECT_DIR$/java-codeanywhere-product-catalog/java-codeanywhere-product-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-codeanywhere-product-catalog/product-catalog.iml" filepath="$PROJECT_DIR$/java-codeanywhere-product-catalog/product-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
     </modules>
   </component>
