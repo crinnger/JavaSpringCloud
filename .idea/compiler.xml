@@ -10,18 +10,24 @@
         <module name="config-server" />
         <module name="shopping-cart" />
         <module name="product-catalog" />
+        <module name="service-discovery" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server" target="11" />
+      <module name="gateway" target="11" />
       <module name="product-catalog" target="11" />
+      <module name="service-discovery" target="11" />
       <module name="shopping-cart" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="config-server" options="-parameters" />
+      <module name="gateway" options="-parameters" />
       <module name="product-catalog" options="-parameters" />
+      <module name="service-discovery" options="-parameters" />
       <module name="shopping-cart" options="-parameters" />
     </option>
   </component>

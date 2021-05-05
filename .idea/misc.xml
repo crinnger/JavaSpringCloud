@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/java-codeanywhere-product-catalog/pom.xml" />
         <option value="$PROJECT_DIR$/shopping-cart/pom.xml" />
         <option value="$PROJECT_DIR$/product-catalog/pom.xml" />
+        <option value="$PROJECT_DIR$/service-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
       </list>
     </option>
   </component>
