@@ -9,7 +9,7 @@ import org.springframework.data.elasticsearch.config.AbstractElasticsearchConfig
 import org.springframework.data.elasticsearch.repository.config.EnableElasticsearchRepositories;
 
 @Configuration
-@EnableElasticsearchRepositories(basePackages = " br.com.crinnger.codeanywhere.experts.javacodeanywhereproductcatalog.repository")
+@EnableElasticsearchRepositories(basePackages = "br.com.crinnger.codeanywhere.experts.productcatalog.repository")
 public class ElasticSearchConfig extends AbstractElasticsearchConfiguration {
 
     @Bean
